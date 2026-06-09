@@ -4,9 +4,9 @@ I'm Christopher, a software engineer based in Brazil.
 
 Im currently working on getting a intern on the programming area for apllying my knowledge and learning even more.
 
-My main tech stack is Java, Javascript, Nodejs, CSS, HTML and im currently focused on learning React and SpringBoot.
+My main tech stack is Python, Java, Nodejs, and im currently focused on learning more about SpringBoot and APIs.
 
-You can contact me by email: christophersousa136@gmail.com or Discord: toriki7439
+You can contact me by email: christophersousa136@gmail.com
 
 ---
 ### 🖥️ Languages and Tools
